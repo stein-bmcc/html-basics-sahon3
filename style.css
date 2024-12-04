@@ -33,5 +33,13 @@ body{
   rgba(255,204,153,0.5);
   }
   
+  img, video{
+    max-width: 100%;
+    height: auto;
+  }
+  figure{
+    margin: 0;
+    margin-bottom: 30px;
+}
 
   
