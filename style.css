@@ -8,6 +8,8 @@ html{
         max-width: 70ch;
         margin-left: auto;
         margin-right: auto;
+        color: rgb(77, 48, 27);
+
       }
 }
 div{ 
@@ -22,6 +24,7 @@ h2{
 }
 h3{
     font-size: 1.4;
+    color: darkred;
 }
 body{
     background-color: 
@@ -30,7 +33,7 @@ body{
   
   body{
     background-color: 
-  rgba(255,204,153,0.5);
+  rgba(255, 220, 173, 0.911);
   }
   
   img, video{
